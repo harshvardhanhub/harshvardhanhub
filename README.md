@@ -1,4 +1,4 @@
-
+![logo](https://github.com/harshvardhanhub/harshvardhanhub/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Vardhan K</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
